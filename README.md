@@ -4,5 +4,8 @@ Those programs which has server and client
 
 ```
 gcc server.c -o server
+```
+```
 ./server
 ```
+
