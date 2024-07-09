@@ -1,14 +1,15 @@
 # KTU S6 NETWORKING LAB PROGRAMS
 
 Those programs which has server and client 
-#Server
+
+# Server
 ```
 gcc server.c -o server
 ```
 ```
 ./server
 ```
-#Client
+# Client
 ```
 gcc client.c -o client
 ```
